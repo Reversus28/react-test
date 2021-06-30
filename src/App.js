@@ -1,5 +1,5 @@
 import PaintingList from './components/PaintingList';
-import painters from './paintings.json';
+// import painters from './paintings.json';
 
 export default function App() {
   return (
